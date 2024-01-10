@@ -1,1 +1,16 @@
 /* your code here */
+section{
+	background-color:rgb(16,227,127);
+	
+}
+.photo-main>img{
+	margin-top:150px;
+	margin-left:150px;
+	width:600px;
+	height:800px;
+	background-color:#b0e836;
+
+.controls{
+	display:flex;
+	margin-top:151px;
+}
